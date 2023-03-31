@@ -8,6 +8,12 @@ Description of tutorial including what you will learn and any tools that will be
 ----
 
 ## Setup Instructions
+refer to ArcGIS Visualization tutorial
+provide link to lpkx
+add to map in arcgis pro
+
+
+
 In preparation for this tutorial, you will need...
 
 Include:
@@ -20,11 +26,21 @@ For all of the above, keep in mind that some people could be using machines on c
 ----
 
 ## Tutorial Steps
-Each tutorial will be different based on the tools used.  Breaking the tutorial up into individual steps is highly reccomended as it reduces congnitive load and allows for "break points" where users can stop and start from at their leisure.  Each step should cover no more than 1 or two concepts and should always assume that the user has minimal experience (explain every action in as granular detail as possible).
+Continuing from Visualization...
 
-If you are enhancing your tutorial with embedded content like H5P modules or Youtube videos, make sure to check how they will look on different mediums.  Generally they will look good on any computer monitor or projector but depending on where you got the embed code from it may not adjust nicely for mobile and tablet viewing.
+Insert tab > Layout > landscape 8.5 x 11
 
-When embedding an iframe, make sure to place at least 2 blank lines above and below it in the markdown file to avoid the HTML interfereing with your markdown syntax.
+Right-click the ruler at the top and select **Add Guides...**
+From the dialogue box, make the following selections:
+- Orientation: BOTH
+- Placement: Offset from edge
+- Position: 0.5 in
+
+   ![image showing add guides window](https://user-images.githubusercontent.com/45638590/229173445-5bb1b068-393d-4c35-990e-0492bd71fd13.png)
+
+
+
+
 
 ----
 
