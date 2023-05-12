@@ -1,27 +1,14 @@
-Add in the tutorial image here 
+    ![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/c4b18637-b855-43e0-b0f5-7b8bea3c8a5f)  
 
-![Tool Logo](Image filename)
+# ArcGIS Pro Layout
+This tutorial builds on the ArcGIS Visualization tuorial such that you are expected to have a map created using ArcGIS Pro. The following steps describe some basic pointers for creating a pleasing layout with cartographic elements such as legend, north arrow, scale bar, source statement and title.
 
-# Title of Tutorial
-Description of tutorial including what you will learn and any tools that will be used in the process
 
 ----
 
 ## Setup Instructions
-refer to ArcGIS Visualization tutorial
-provide link to lpkx
-add to map in arcgis pro
+This tutorial assumes the user has completed the [ArcGIS Visualization](https://brockdsl.github.io/ArcGIS_Visualization/) tutorial.
 
-
-
-In preparation for this tutorial, you will need...
-
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
-
-For all of the above, keep in mind that some people could be using machines on campus (or elsewhere) that might have limitations in regards to downloading tools and files so be sure to mention that somewhere.
 
 ----
 
