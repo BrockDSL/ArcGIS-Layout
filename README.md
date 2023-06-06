@@ -21,7 +21,7 @@ Select ANSI - Landscape 8.5" x 11"
 The white box that appears is essentially the representation of a piece of letter size paper. It is a good practise to add **guides** so that there is a clean border around the outside of the map and all of its elements.
 
 To be sure the rulers are showing, click the Layout ribbon at the top of the window and check the boxes for Rulers and Guides.
-![image of show guides and rulers](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/c627d7ec-831f-45c8-839e-e25c12b5c8c4)
+![image of show guides and rulers](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/0b5ed6c3-2581-4dd5-ac72-05572e9b8e05)
 
 Above the white box you will see the ruler, right-click on the ruler and select **Add Guides...** Make sure to select GUIDES (plural) or you will end up with a single guide where you don't want it.
 
@@ -36,8 +36,7 @@ Click OK to add the guides. When you add any element to the layout, DO NOT ALLOW
 
 The **Insert** tab at the top is where you will find a variety of elements to add to the layout.
 
-From the **Insert** tab at the top, select **Map Frame** ![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/f3ff8cd3-1843-47f7-abfa-df696832bebb). Choose the map frame to add. In this case, ![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/eee131bb-9335-4534-81b3-521519eeb443).
-
+From the **Insert** tab at the top, select **Map Frame** ![image of insert > map frame](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/0bd90166-1155-4781-8e3d-968ab411cdf6). Choose the map frame to add. In this case, ![image of map frame to insert](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/d52a5667-ba33-427e-8d22-cbf35eeef808).
 
 Draw a box on the layout page to represent the map element. The box is populated with the map frame and should look something like this:
 
