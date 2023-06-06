@@ -9,7 +9,7 @@ This tutorial builds on the ArcGIS Visualization tuorial such that you are expec
 ## Setup Instructions
 This tutorial assumes the user has completed the [ArcGIS Visualization](https://brockdsl.github.io/ArcGIS_Visualization/) tutorial.
 
-This map package includes the final result of the ArcGIS Visualization tutorial. Download the [map package](https://github.com/BrockDSL/ArcGIS-Layout/blob/main/TreeSymbols.lpkx) and double-click to run ArcGIS Pro.
+This map package includes the final result of the ArcGIS Visualization tutorial. Download the [map package](https://github.com/BrockDSL/ArcGIS-Layout/blob/main/ArcGISLayout.mpkx) and double-click to run ArcGIS Pro.
 
 ----
 
