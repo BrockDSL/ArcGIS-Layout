@@ -1,4 +1,4 @@
-   ![image of layout ribbon](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/c4b18637-b855-43e0-b0f5-7b8bea3c8a5f)  
+  ![image of layout ribbon](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/efb732a9-53c3-40d1-b01b-09757c36b5f9)
 
 # ArcGIS Pro Layout
 This tutorial builds on the ArcGIS Visualization tuorial such that you are expected to have a map created using ArcGIS Pro. The following steps describe some basic pointers for creating a pleasing layout with cartographic elements such as legend, north arrow, scale bar, source statement and title.
@@ -14,7 +14,8 @@ This map package includes the final result of the ArcGIS Visualization tutorial.
 ----
 
 ## Creating a Layout
-Click the **Insert** tab and select New Layout ![image of New Layout button](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/df849780-45db-4c30-b1bc-e387b92bbd7a)
+Click the **Insert** tab and select New Layout ![image of new layout button](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/53e18e94-3d3e-4345-92d2-3b01117532f7)
+ 
 Select ANSI - Landscape 8.5" x 11"
 
 The white box that appears is essentially the representation of a piece of letter size paper. It is a good practise to add **guides** so that there is a clean border around the outside of the map and all of its elements.
