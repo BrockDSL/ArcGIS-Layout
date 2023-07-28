@@ -40,13 +40,15 @@ From the **Insert** tab at the top, select **Map Frame** ![image of insert > map
 
 Draw a box on the layout page to represent the map element. The box is populated with the map frame and should look something like this:
 
-![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/0a69e7c8-5d0b-4eae-a57a-df68f04b6af4)
+![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/9759d785-573e-478a-b93a-3e694e9b7b68)
+
 
 Use the handles (little white boxes on the edge and corners of the map frame) to resize and click/drag to re-position the map element. Notice the space above and below for text such as title and source statements. There is also room to the right of the map for a legend, north arrow and scale bar.
 
 With the Insert ribbon active, explore the options from the **Map Surrounds** group. We will add a few of these elements next.
 
-![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/1ae5b9d9-b5c1-4419-a9db-0f10473e7da5)
+![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/8534626b-23ee-4937-bd00-e92ccb9d06fe)
+
 
 Click the North Arrow option and select a style of your choosing then click on anywhere on the layout to add the north arrow. With the north arrow element selected, click/drag to position it on the layout.
 
