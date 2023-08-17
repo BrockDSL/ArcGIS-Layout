@@ -52,10 +52,28 @@ The **Insert** tab at the top is where you will find a variety of elements to ad
 
 11. Click the North Arrow option and select a style of your choosing then click anywhere on the layout to add the north arrow. With the north arrow element selected, click/drag to position it on the layout.
 
-12. Likewise, click the scalebar options and choose a **metric** scalebar then click on the layout to place the element. Double click the scalebar to see more options.
-![image of scalebar settings](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/181522ff-8f0a-4e84-8ba5-0445a07f3241)
+12. Likewise, click the scalebar options and choose a **metric** scalebar then click on the layout to place the element. Double click the scalebar to see more options.    
+    ![image of scalebar settings](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/181522ff-8f0a-4e84-8ba5-0445a07f3241)    
 
-![image showing north arrow and scalebar added](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/85c2e58a-0380-45a9-847a-e45dd787630d)
+    ![image showing north arrow and scalebar added](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/85c2e58a-0380-45a9-847a-e45dd787630d)
+
+## The Legend
+
+1. From the Insert ribbon, click the legend option and select "Legend 1" then draw a box on the layout.  
+
+2. If you see 3 red dots inside square brackets, this means there is more content to be seen. Widen the legend box until the red dots disappear.
+
+3. Double-click the legend element to see options.
+
+    ![image of legend element options](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/8359615f-bb3e-4020-ab43-de95c4b7491a)
+
+4. From *Legend Items* click **Show Properties** ![image legend items show properties](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/d39508f8-179e-4b90-86a3-53627a58c540)
+
+From **Feature Display Options** check the boxes for *Only show features visible in the map extent* and *Show feature counts*. 
+
+Experiment with other options and shift layout elements as desired. Here is what your map could look like:    
+
+![image of sample map](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/bfa225c2-957c-4296-8002-25e7290934ca)
 
 
 
