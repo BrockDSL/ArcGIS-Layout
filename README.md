@@ -75,8 +75,45 @@ Experiment with other options and shift layout elements as desired. Here is what
 
 ![image of sample map](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/bfa225c2-957c-4296-8002-25e7290934ca)
 
+## Graphics and Text
+
+The Insert ribbon includes a section for *Graphics and Text*.    ![image of graphics and text](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/f2b126e9-12e7-45f2-81c4-b4f1f461a62e)
+
+Click ![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/5f517327-f652-4eec-8f0c-b48e3332a0d1) to enter straight text then click on the white space above the legend. 
+
+Double-click the text to edit using the element options dialogue box.    
+![image of element options for text element](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/5fdc7fca-d561-4e99-9845-ab4bfe881e9b)
+
+Add another text element at the bottom of the layout to describe sources and author.    
+![image of layout so far](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/eae28f62-fdbd-4dc7-8ef2-1da72da5a6f9)
+
+## Extra tips and tricks
+
+Because we are using an Esri basemap, there is a dynamic text element displayed at the lower right corner of the map frame. This trick will remove the dynamic text and you can see from the image above that I have included the Esri reference in my straight text element.  
+
+1. From the *Graphics and Text* group, click **Dynamic Text** and scroll down in the options until you see **Layout > Service layer credits**.
+![image service layer credits](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/12c004f6-ef0d-4771-bd94-2f0999c83fde)
+
+2. Click on the white space below the map frame.
+3. From the Element pane (you may need to double-click the dynamic text element to activate the element pane) > expand the *General* settings and uncheck *Visible*
+   ![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/eb8f58ae-f611-4e4e-a935-0a0677850957)
 
 
+![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/28ae4298-975a-43af-8e0f-c9a9dd349dba)
+
+## Printing and Sharing    
+
+All printing and sharing options can be found under the Share ribbon at the top of the interface.
+
+Click **Export Layout** to see the various options. Notice the *File Type* options include common image formats such as JPEG, TIFF and PDF.
+
+Be sure to uncheck **Clip to graphics extent**.
+
+Click *Export* and the resulting image will be available via a link at the bottom of the Export Layout pane OR in the defined storage location.
+
+![image of completed map](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/c9f582cf-6669-47c9-aeb8-d4602f95edcf)
+
+Congratulations! You've created a map layout using ArcGIS technologies.
 
 
 ----
