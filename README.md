@@ -50,12 +50,12 @@ The **Insert** tab at the top is where you will find a variety of elements to ad
 ![image](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/8534626b-23ee-4937-bd00-e92ccb9d06fe)
 
 
-11. Click the North Arrow option and select a style of your choosing then click on anywhere on the layout to add the north arrow. With the north arrow element selected, click/drag to position it on the layout.
+11. Click the North Arrow option and select a style of your choosing then click anywhere on the layout to add the north arrow. With the north arrow element selected, click/drag to position it on the layout.
 
 12. Likewise, click the scalebar options and choose a **metric** scalebar then click on the layout to place the element. Double click the scalebar to see more options.
-![image of the element pane for the scalebar](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/145eceb1-4230-4186-bf84-ecab23abff22)
+![image of scalebar settings](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/181522ff-8f0a-4e84-8ba5-0445a07f3241)
 
-
+![image showing north arrow and scalebar added](https://github.com/BrockDSL/ArcGIS-Layout/assets/45638590/85c2e58a-0380-45a9-847a-e45dd787630d)
 
 
 
