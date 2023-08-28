@@ -118,6 +118,4 @@ Congratulations! You've created a map layout using ArcGIS technologies.
 
 ----
 
-**End notes**
-
-**This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [maplib@Brocku.ca](mailto:maplib@Brocku.ca)**
+**This tutorial is supported by the Brock University Research Lifecycle Department, Map, Data & GIS Library.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [maplib@Brocku.ca](mailto:maplib@Brocku.ca)**
